@@ -236,4 +236,6 @@ router.post("/sign-out", async (req: Request, res: Response) => {
   }
 });
 
+// TODO: Passord recovery, other stuff I'm not remembering right now...
+
 export default router;
